@@ -10,6 +10,10 @@ export default defineConfig({
         {
           name: 'Be Vietnam Pro',
           styles: 'wght@400;500;600;700;900&display=swap'
+        },
+        {
+          name: 'DM Sans',
+          styles: 'wght@700&display=swap'
         }
       ]
     }

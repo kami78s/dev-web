@@ -15,6 +15,7 @@ export default {
         forma: ['FormaDJRMicro', 'sans-serif'],
         vietnam: ['Be vietnam pro', 'sans-serif'],
         grotesk: ['NeueHassDisplay', 'sans-serif'],
+        dm: ['DM Sans', 'sans-serif']
       },
     },
   },
