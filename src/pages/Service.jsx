@@ -19,8 +19,8 @@ function Services() {
           <div className='w-full h-[232px] mt-6 rounded-3xl bg-[#D9D9D9] md:mt-12 md:h-[581px]'></div>
         </section>
 
-        <section className='flex gap-12 mx-4 mt-12 md:mx-16 md:mt-24'>
-          <p className='font-forma font-bold text-2xl leading-relaxed text-dimmed md:text-3xl'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+        <section className='flex items-center gap-12 mx-4 mt-12 md:mx-16 md:mt-24'>
+          <p className='basis-3/4 font-forma font-bold text-2xl leading-relaxed text-dimmed md:text-3xl sm:basis-full'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
             <br />
             <br />
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
@@ -28,7 +28,7 @@ function Services() {
             <br />
             When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
           </p>
-          <img src="/images/dummy-image-vertical.jpg" alt="dummy image" className='w-1/4 self-center hidden rounded-3xl object-cover object-center lg:inline' />
+          <img src="/images/dummy-image-vertical.jpg" alt="dummy image" className='basis-1/4 self-center hidden rounded-3xl object-cover object-center lg:inline' />
         </section>
 
         <section className="grid grid-cols-1 justify-items-center gap-12 mx-4 mt-12 md:mx-16 md:mt-24 md:grid-cols-2">
