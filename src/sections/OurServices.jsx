@@ -1,13 +1,17 @@
+import MouseHighlighter from '../components/MouseHighlighter'
+import AnimatedLink from '../components/AnimatedLink'
 
 function OurServices() {
     return (
-        <section className='flex flex-col gap-9 justify-between max-w-7xl mx-auto mt-16 px-4 md:flex-row md:flex-wrap md:px-16 md:mt-24'>
+        <section className='flex flex-col gap-9 max-w-7xl mx-auto mt-16 px-4 md:flex-row md:flex-wrap md:px-16 md:mt-24'>
             {services.map((service, i) => (
-                <div className='w-full px-3 py-4 flex-shrink-0 flex-grow rounded-2xl bg-background-accent md:basis-1/3 md:p-10' key={i}>
-                    <h3 className='text-2xl font-bold text-primary'>{service.header}</h3>
-                    <p className="mt-5 mb-3 font-vietnam text-base text-dimmed">{service.content}</p>
-                    <a href="#" className='text-lg text-accent font-bold'>En savoir plus</a>
-                </div>
+                <MouseHighlighter key={i}>
+                    <div className='px-3 py-5'>
+                        <h3 className='text-2xl font-bold text-primary'>{service.header}</h3>
+                        <p className="mt-5 mb-3 font-vietnam text-base text-dimmed">{service.content}</p>
+                        <AnimatedLink href="#" />
+                    </div>
+                </MouseHighlighter>
             ))}
         </section>
     )

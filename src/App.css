@@ -1,13 +1,28 @@
 * {
-    margin: 0;
-    padding: 0;
-  }
-  
-  .hide-scrollbar::-webkit-scrollbar {
-    display: none;
-  }
-  
-  .hide-scrollbar {
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
-  }
+  margin: 0;
+  padding: 0;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+.underline-animation::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #CE4242;
+  transition: width .3s;
+}
+
+.underline-animation:hover::after {
+  width: 100%;
+}

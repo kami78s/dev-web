@@ -46,7 +46,7 @@ function Contact() {
                         required
                     />
 
-                    <button className="w-full px-8 py-4 rounded-lg text-base font-medium font-barlow bg-accent text-white sm:col-start-2 sm:w-fit sm:justify-self-end">
+                    <button className="w-full px-8 py-4 rounded-lg text-base font-medium font-barlow bg-accent text-background-accent sm:col-start-2 sm:w-fit sm:justify-self-end">
                         Submit
                     </button>
                 </form>
