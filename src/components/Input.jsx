@@ -45,7 +45,7 @@ export function TeleInput({ id }) {
             type="tel"
             id={`${id}-1`}
             className={clsx(
-              'basis-1/4 w-full py-2  px-4 rounded-md border bg-black-bg shadow-sm',
+              'basis-1/4 w-full py-2 px-4 text-background rounded-md border bg-black-bg shadow-sm',
               {
                 'border-yellow-200': isFilled,
               }
@@ -56,7 +56,7 @@ export function TeleInput({ id }) {
             id={`$id}-2`}
             onChange={(e) => setIsFilled(e.target.value.length > 0)}
             className={clsx(
-              'basis-3/4 w-full py-2  px-4 rounded-md border bg-black-bg shadow-sm',
+              'basis-3/4 w-full py-2 px-4 text-background rounded-md border bg-black-bg shadow-sm',
               {
                 'border-yellow-200': isFilled,
               }
