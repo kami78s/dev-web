@@ -15,6 +15,11 @@ export default {
         forma: ['FormaDJRMicro', 'sans-serif'],
         vietnam: ['Be vietnam pro', 'sans-serif'],
         grotesk: ['NeueHassDisplay', 'sans-serif'],
+        dm: ['DM Sans', 'sans-serif']
+      },
+      backgroundImage: {
+        'france-flag': "url('/images/Flag_of_France.png')",
+        'england-flag': "url('/images/Flag_of_England.png')",
       },
     },
   },

@@ -1,0 +1,204 @@
+{
+    "fr": {
+        "navLinks": [
+            "Accueil",
+            "Service",
+            "Contactez"
+        ],
+        "CTAButton": "Contactez-nous",
+        "heroParagraph": "OxyHack vous offre une expertise rapide, efficace et optimale, adaptée à vos besoins en cybersécurité.",
+        "heroSmall": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque.",
+        "services": [
+            {
+                "header": "ingénierie sociale",
+                "content": "Assurez la sécurité et l’intégrité de votre environnement numérique avec nos services d’audit et de pentest sur mesure."
+            },
+            {
+                "header": "Prestation de penteste",
+                "content": "Élevez votre défense contre les cybermenaces grâce à nos formations sur mesure et à notre expertise en simulation d'attaques de phishing."
+            },
+            {
+                "header": "Sensibilisation",
+                "content": "Renforcez votre sécurité informatique avec le service Blue Team, fourni par notre partenaire MOART IT"
+            },
+            {
+                "header": "Prestation audite de sécurité",
+                "content": "Développez vos compétences en cybersécurité avec notre service CTF, offrant des compétitions sur mesure et des plateformes clé en main."
+            }
+        ],
+        "home_section2_h2": "Qui sommes nous ?",
+        "animatedLink": "En savoir plus",
+        "carousel_h2": "Les risques de la sécurité",
+        "carouselItems": [
+            {
+                "header": "Espionnage",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            },
+            {
+                "header": "Destruction de donnée",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            },
+            {
+                "header": "Atteinte à l’image",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            },
+            {
+                "header": "Demande de rançon",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            }
+        ],
+        "home_section2_h4": "Organisez un CTF captivant avec OxyHack pour booster les compétences de vos équipes tout en leur offrant une expérience exaltante.",
+        "services_heroParagraph": "Audit et pentest",
+        "services_subHero": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque.",
+        "services_CTAButton": "Lorem ipsum",
+        "section1_p1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "section1_p2": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "drawers": [
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            },
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            },
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            },
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            }
+        ],
+        "section2_h4": "Lorem ipsum dolor sit amet consectetur.",
+        "contact_h1": "Contact",
+        "contact_p": "Nous sommes heureux d'avoir de vos nouvelles.",
+        "contact_form_firstname": "Prénom",
+        "contact_form_email": "Adresse E-mail",
+        "contact_form_company": "Nom de l’entreprise",
+        "contact_form_lastname": "Nom",
+        "contact_form_telephone": "Numéro de téléphone",
+        "contact_form_country": "Pays",
+        "contact_form_subject": "Sujet",
+        "contact_form_message": "Message",
+        "contact_form_send_button": "Envoyer",
+        "quote_h1": "Besoin d’un devis ?",
+        "quote_p": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque.",
+        "quote_form_firstname": "Prénom",
+        "quote_form_email": "Adresse E-mail",
+        "quote_form_company": "Nom de l’entreprise",
+        "quote_form_lastname": "Nom",
+        "quote_form_telephone": "Numéro de téléphone",
+        "quote_form_country": "Pays",
+        "quote_form_employees": "Effectif d’employés",
+        "quote_form_subject": "Sujet",
+        "quote_form_message": "Message",
+        "quote_form_send_button": "Envoyer"
+    },
+    "en": {
+        "navLinks": [
+            "Home",
+            "Service",
+            "Contact"
+        ],
+        "CTAButton": "Contact-us",
+        "heroParagraph": "OxyHack offers you fast, efficient and optimal expertise, adapted to your cybersecurity needs.",
+        "heroSmall": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque.",
+        "services": [
+            {
+                "header": "Social engenering",
+                "content": "Assurez la sécurité et l’intégrité de votre environnement numérique avec nos services d’audit et de pentest sur mesure."
+            },
+            {
+                "header": "Prestation de penteste",
+                "content": "Élevez votre défense contre les cybermenaces grâce à nos formations sur mesure et à notre expertise en simulation d'attaques de phishing."
+            },
+            {
+                "header": "Sensibilisation",
+                "content": "Renforcez votre sécurité informatique avec le service Blue Team, fourni par notre partenaire MOART IT"
+            },
+            {
+                "header": "Prestation audite de sécurité",
+                "content": "Développez vos compétences en cybersécurité avec notre service CTF, offrant des compétitions sur mesure et des plateformes clé en main."
+            }
+        ],
+        "home_section2_h2": "Who are we ?",
+        "animatedLink": "Learn more",
+        "carousel_h2": "Security risks",
+        "carouselItems": [
+            {
+                "header": "Espionnage",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            },
+            {
+                "header": "Destruction de donnée",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            },
+            {
+                "header": "Atteinte à l’image",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            },
+            {
+                "header": "Demande de rançon",
+                "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s",
+                "image": ""
+            }
+        ],
+        "home_section2_h4": "Organisez un CTF captivant avec OxyHack pour booster les compétences de vos équipes tout en leur offrant une expérience exaltante.",
+        "services_heroParagraph": "Audit & Pentest",
+        "services_subHero": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque.",
+        "services_CTAButton": "Lorem ipsum",
+        "section1_p1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+        "section1_p2": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+        "drawers": [
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            },
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            },
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            },
+            {
+                "header": "Lorem ipsum dolor sit amet",
+                "content": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque. Lorem ipsum dolor sit amet consectetur."
+            }
+        ],
+        "section2_h4": "Lorem ipsum dolor sit amet consectetur.",
+        "contact_h1": "Contact",
+        "contact_p": "Our pleasure to hear from you.",
+        "contact_form_firstname": "First Name",
+        "contact_form_email": "E-mail",
+        "contact_form_company": "Company Name",
+        "contact_form_lastname": "Last Name",
+        "contact_form_telephone": "Telephone number",
+        "contact_form_country": "Country",
+        "contact_form_subject": "Subject",
+        "contact_form_message": "Message",
+        "contact_form_send_button": "Send",
+        "quote_h1": "Need a quote?",
+        "quote_p": "Lorem ipsum dolor sit amet consectetur. Tempor diam et etiam fermentum augue mauris neque scelerisque.",
+        "quote_form_firstname": "First Name",
+        "quote_form_email": "E-mail",
+        "quote_form_company": "Company Name",
+        "quote_form_lastname": "Last Name",
+        "quote_form_telephone": "Telephone number",
+        "quote_form_country": "Country",
+        "quote_form_employees": "Number of employees",
+        "quote_form_subject": "Subject",
+        "quote_form_message": "Message",
+        "quote_form_send_button": "Send"
+    }
+}
